@@ -1,4 +1,4 @@
-package com.example.exerciciospring.models;
+package com.example.exerciciospring.model.entities;
 
 public class Cliente {
 
